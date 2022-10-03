@@ -1,7 +1,7 @@
 ## Deliverables
 
 Questa repository contiene i Derivable del gruppo T-37.
-(*Il file "Analisi_requisiti.pdf" contiene i primi tre Derivable insieme*)
+(*Il file ~/altro/"Analisi_requisiti.pdf" contiene i primi tre Derivable insieme*)
 # File:
 - [x] D1: Descrizione di progetto
 - [ ] D2: Documento dei requisiti
