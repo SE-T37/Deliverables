@@ -1,6 +1,7 @@
 ## Deliverables
 
 Questa repository contiene i Derivable del gruppo T-37.
+Per la visione dei file pdf, si consiglia di scaricarili poichè la visualizzazione in github riduce la definizione.
 
 
 # File:
