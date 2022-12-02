@@ -10,6 +10,7 @@ Per la visione dei file pdf, si consiglia di scaricarili poichè la visualizzazi
 - [x] D2: Documento dei requisiti
 - (versione 1.0 pubblicata il 03/11/2022, typo corretto il 07/11/2022)
 - [ ] D3: Documento di design
+- (versione 1.0 pubblicata il 02712/2022)
 - [ ] D4: Api
 - [ ] D5: Report di progetto
 
